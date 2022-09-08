@@ -1,0 +1,25 @@
+.titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 325px 107px 324px;
+}
+
+.titulo__sobreNos {
+    font-size: 16px;
+    color: var(--vermelho-padrao);
+    font-weight: 600;
+}
+
+.titulo__destque {
+    font-size: 48px;
+    color: var(--azul);
+    font-weight: 600;
+    padding: 24px 0 36px 0;
+}
+
+.titulo__texto {
+    font-size: 20px;
+    color: var(--cinza-subcabeçalho);
+    font-weight: 400;
+}

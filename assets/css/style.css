@@ -1,4 +1,7 @@
 @import url("./cabeçalho.css");
+@import url("./titulo.css");
+@import url("./metricas.css");
+@import url("./vagas.css");
 
 :root {
     --fundo-cabeçalho: #FFFFFF;
@@ -6,8 +9,10 @@
     --cinza-subcabeçalho: #667085;
     --cinza-cabeçalho: #3A404E;
     --fonte: 'Inter', sans-serif;
+    --azul: #101828;
 }
 
 body {
     background: var(--fundo-cabeçalho);
+    font-family: var(--fonte);
 }

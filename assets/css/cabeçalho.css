@@ -13,10 +13,8 @@
     margin-left: 112px;
 }
 
-
-
 .fonte__logo {
-    color: var(#3A404E);
+    color: #3A404E;
     padding-left: 8px;
     font-size: 24px;
     font-weight: 500;
@@ -58,6 +56,10 @@
     border-radius: 8px;
     color: var(--fundo-cabeçalho);
 }
+
+
+
+/* Primeiro codigo antes do flex-box */
 
 /* .nav {
     display: flex;
