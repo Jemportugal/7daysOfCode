@@ -1,0 +1,35 @@
+.abertas {
+    margin: 64px  336px 96px 336px;
+}
+
+.design {
+    color: var(--azul);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 36px;
+}
+
+.vagas__lista {
+    border: 1px solid #EAECF0;
+    padding: 24px 24px 28px 24px;
+    border-radius: 16px;
+    margin-bottom: 34px;
+}
+
+.vagas__titulo {
+    color: var(--azul);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 32px;
+}
+
+.vagas__item {
+    display: inline;
+    color:  var(--cinza-subcabeçalho);
+    margin-right: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
